@@ -63,10 +63,10 @@ h1 a {
 
 #menu {
     height: 70px;
-    background: linear-gradient(#F8F594, #D5D533);
-    background: -webkit-linear-gradient(#F8F594, #D5D533);
-    background: -o-linear-gradient(#F8F594, #D5D533);
-    background: -moz-linear-gradient(#F8F594, #D5D533);
+    background: linear-gradient(#68e4ec, #2acccc);
+    background: -webkit-linear-gradient(#68e4ec, #2acccc);
+    background: -o-linear-gradient(#68e4ec, #2acccc);
+    background: -moz-linear-gradient(#68e4ec, #2acccc);
     padding: 7px 0;
 }
 
@@ -106,10 +106,10 @@ ul {
 }
 
 #introduction {
-    background: linear-gradient(#E5F2BB, #B7E952);
-    background: -webkit-linear-gradient(#E5F2BB, #B7E952);
-    background: -o-linear-gradient(#E5F2BB, #B7E952);
-    background: -moz-linear-gradient(#E5F2BB, #B7E952);
+    background: linear-gradient(#84e7df, hsl(180, 77%, 62%));
+    background: -webkit-linear-gradient(#84e7df, hsl(180, 77%, 62%));
+    background: -o-linear-gradient(#84e7df, hsl(180, 77%, 62%));
+    background: -moz-linear-gradient(#84e7df, hsl(180, 77%, 62%));
     padding: 30px;
     margin: 16px 0;
 }
